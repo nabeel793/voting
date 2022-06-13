@@ -1,0 +1,38 @@
+*{
+    width: auto;
+    padding: auto;
+}
+form{
+    margin: 4px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+input{
+    margin: 20px;
+    text-align: center;
+    padding: 12px;
+    border: solid;
+    border-style: ridge;
+    width: 21%;
+}
+h2{
+    margin: 0px;
+    padding: 8px;
+    text-align: center;
+}
+img{
+    margin: auto;
+    width: 100%;
+    position: absolute;
+    z-index: -5;
+}
+button{
+    margin: 20px;
+    text-align: center;
+    padding: 12px;
+    border-block: revert;
+    width: 15%;
+    border-radius: 20%;
+}
